@@ -39,7 +39,7 @@
     line-height: 34.5px;
     letter-spacing: 0.66px;
     position: absolute;
-    top: 700px;
+    top: 790px;
     left: 700px;
 }
 #line_color{
@@ -68,4 +68,64 @@
     display: inline-block;
     position: absolute;
     top: 1200px;
+}
+.common_Btext{
+    color: #FFF;
+    font-family: BREAKSONG;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 105.5px;
+    letter-spacing: -0.6px;
+    text-align: justify;
+}
+.common_Stext{
+    color: #EEE;
+    font-family: Helvetica Neue LT Std;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34.5px;
+    letter-spacing: 0.48px;
+    text-align: justify;
+}
+.common_Sstext{
+    color: #FFF;
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: justify;
+}
+#Approach_text{
+    padding-left: 150px;
+}
+#frame{
+    display: flex;
+    gap: 35px;
+}
+.Rectangle_img{
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 1500px;
+    right: 8px;
+}
+#Approach{
+    margin-top: 400px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+#sun_color1{
+    width: 268px;
+    height: 268px;
+    border-radius: 268px;
+    background: #FFD700;
+    filter: blur(245.5px);
+    display: inline-block;
+    position: absolute;
+    top: 1800px;
+    left: 0px;
 }
